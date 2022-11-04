@@ -10,7 +10,7 @@ namespace Generics
 	{
 		static void Main(string[] args)
 		{
-
+			Console.WriteLine("yyyeees");
 		}
 	}
 }
