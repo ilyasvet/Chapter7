@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter7", "Chapter7\Chapter7.csproj", "{0C190A36-9D7C-4796-B91D-DD89C8249208}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{36DFD93E-EAF4-4A63-9ABF-45C1ECAC454E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{2022C785-B597-4425-BE2B-5CA807E599DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics2", "Generics2\Generics2.csproj", "{13BC2708-91F7-4DFC-B1F5-0CC08EA422EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2022C785-B597-4425-BE2B-5CA807E599DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2022C785-B597-4425-BE2B-5CA807E599DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2022C785-B597-4425-BE2B-5CA807E599DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BC2708-91F7-4DFC-B1F5-0CC08EA422EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BC2708-91F7-4DFC-B1F5-0CC08EA422EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BC2708-91F7-4DFC-B1F5-0CC08EA422EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BC2708-91F7-4DFC-B1F5-0CC08EA422EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
